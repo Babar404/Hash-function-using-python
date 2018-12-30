@@ -6,7 +6,6 @@ Employee Name
 Landline number
 Mobile Number
 
-
 The data is to be stored in a table in main-memory (total employees: 75). The records
 need to be inserted as well as searched from the table based on hashing mechanism.
 Collisions need to be resolved using suitable technique.
